@@ -15,4 +15,4 @@ let starSpeed = 2
 
 //reserve keyboard bindings
 
-let keyF, keyR, keyLEFT, keyUP
+let keyF, keyR, keyLEFT, keyRIGHT
